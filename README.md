@@ -4,7 +4,7 @@ This Refactoring Kata was designed by Jon Jagger and is available in his Cyber-D
 
 I have changed it a little, so that the rules more closely match the original game.
 
-> You might found the online Yahtzee usefull at [cardgames.io](https://cardgames.io/yahtzee/)
+> You might find the online Yahtzee useful at [cardgames.io](https://cardgames.io/yahtzee/)
 
 The other language translations have been contributed by:
 
